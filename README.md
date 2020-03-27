@@ -1,2 +1,2 @@
 # hellogithub
-just say hello
+say hello
